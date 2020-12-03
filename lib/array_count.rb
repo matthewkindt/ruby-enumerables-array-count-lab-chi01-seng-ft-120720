@@ -9,4 +9,4 @@ def count_empty_strings(array)
     empty_strings.is_a(String)
   # Return the total number of EMPTY strings in the provided array using the count enumerable
 end
-defined?
+end
