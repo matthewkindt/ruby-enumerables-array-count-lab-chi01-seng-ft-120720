@@ -6,7 +6,7 @@ end
 end
 def count_empty_strings(array)
   array.count do |element|
-    b = element.new
+    b = B.new
     [element].kind_of?
   # Return the total number of EMPTY strings in the provided array using the count enumerable
 end
